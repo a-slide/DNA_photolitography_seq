@@ -32,9 +32,8 @@ Reads were subsequently aligned to the sequence panel reference previously gener
 
 ## Citation
 
-* Publication: When published
-
-* Repository: Zenodo repo when public 
+* Publication: []
+* Repository: Adrien Leger. (2021, February 9). a-slide/DNA_photolitography_seq: v0.1 (Version v0.1). Zenodo. http://doi.org/10.5281/zenodo.4524788
 
 ## Licence
 
